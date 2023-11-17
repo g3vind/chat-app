@@ -53,7 +53,7 @@ This chat application is a real-time messaging platform that utilizes various te
    npm run dev
    ```
 
-2. Open your browser and navigate to `http://localhost:3000` to use the chat application.
+2. Open your browser and navigate to `http://localhost:5173` to use the chat application.
 
 
 ## Contributing
