@@ -30,7 +30,7 @@ This chat application is a real-time messaging platform that utilizes various te
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/chat-application.git
+   git clone https://github.com/your-username/chat-app.git
    ```
 
 2. Change into the project directory:
@@ -55,15 +55,6 @@ This chat application is a real-time messaging platform that utilizes various te
 
 2. Open your browser and navigate to `http://localhost:3000` to use the chat application.
 
-## Folder Structure
-
-The project follows a standard React folder structure:
-
-- **`src/components`**: Contains React components used in the application.
-- **`src/containers`**: Higher-level components that combine multiple components.
-- **`src/hooks`**: Custom React hooks for state management.
-- **`src/services`**: Services for interacting with APIs.
-- **`src/styles`**: CSS styles for styling the components.
 
 ## Contributing
 
