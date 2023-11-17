@@ -1,7 +1,5 @@
 # Chat Application 
 
-## Sockets, Rest APIs, Sending Images, React Hooks, Props, and CSS
-
 This chat application is a real-time messaging platform that utilizes various technologies to provide a seamless and interactive chatting experience. The key features include the use of Sockets for real-time communication, Rest APIs for data exchange, the ability to send images, React Hooks for state management, Props for component communication, and CSS for styling.
 
 ## Technologies Used
