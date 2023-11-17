@@ -19,8 +19,9 @@ function MyMessage({ message }) {
       style={{
         float: "right",
         marginRight: "18px",
-        color: "white",
-        backgroundColor: "3B2A50",
+        color: "black",
+        border: "2px solid black",
+        backgroundColor: "#0073cf",
       }}
     >
       {message.text}
