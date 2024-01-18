@@ -54,11 +54,3 @@ This chat application is a real-time messaging platform that utilizes various te
    ```
 
 2. Open your browser and navigate to `http://localhost:5173` to use the chat application.
-
-
-## Contributing
-
-If you would like to contribute to the project, please follow the [contribution guidelines](CONTRIBUTING.md).
-
-
----
